@@ -1,4 +1,4 @@
-# Nuxt 3 Minimal Starter
+# nuxt-env-test
 
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
 
@@ -38,6 +38,3 @@ Locally preview production build:
 ```bash
 npm run preview
 ```
-
-Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/presets) for more information.
-# nuxt-env-test
